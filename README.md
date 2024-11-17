@@ -1,7 +1,5 @@
 ## Hi, Im Allison 👋
 
----
-
 I am a senior at The University of Iowa studying Business Analytics and Information Systems.
 
 ### Current Job
