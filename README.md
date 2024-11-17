@@ -4,7 +4,7 @@ I am a senior at The University of Iowa studying Business Analytics and Informat
 
 ### Current Job
 
-I am currently on the Health Care Strategy Team at the Univeristy of Iowa Hospital
+I am currently on the Health Care Strategy Team at the Univeristy of Iowa Hospital.
 
 ---
 
