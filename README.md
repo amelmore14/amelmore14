@@ -1,5 +1,15 @@
 ## Hi, Im Allison 👋
 
+---
+
+I am a senior at The University of Iowa studying Business Analytics and Information Systems.
+
+### Current Job
+
+I am currently on the Health Care Strategy Team at the Univeristy of Iowa Hospital
+
+---
+
 <!--
 **amelmore14/amelmore14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
