@@ -8,6 +8,7 @@ I am currently on the Health Care Strategy Team at the Univeristy of Iowa Hospit
 
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/allison-elmore/)
+[![Handshake](https://img.shields.io/badge/Handshake-Profile-blue?style=for-the-badge)](https://app.joinhandshake.com/profiles/nxuk8u)
 
 <!--
 **amelmore14/amelmore14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
