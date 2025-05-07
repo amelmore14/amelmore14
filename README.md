@@ -7,6 +7,7 @@ I am a senior at The University of Iowa studying Business Analytics and Informat
 I am currently on the Health Care Strategy Team at the Univeristy of Iowa Hospital.
 
 ---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/allison-elmore/)
 
 <!--
 **amelmore14/amelmore14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
