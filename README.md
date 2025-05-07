@@ -6,7 +6,11 @@ I am a senior at The University of Iowa studying Business Analytics and Informat
 
 I am currently on the Health Care Strategy Team at the Univeristy of Iowa Hospital.
 
----
+### Post Grad Plan
+
+I am actively seeking a remote full time position or a summer internship. After graduation I plan to travel for the month of May, find a job to start the month of June and in August I will be moving my life to South Carolina! 
+
+--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/allison-elmore/)
 [![Handshake](https://img.shields.io/badge/Handshake-Profile-blue?style=for-the-badge)](https://app.joinhandshake.com/profiles/nxuk8u)
 
